@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Tetris_arch
+Bundle-SymbolicName: tetris_arch
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: tetris_arch.Activator
+Require-Bundle: org.eclipse.core.runtime,
+ edu.uci.isr.myx.fw;bundle-version="4.1.50"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
